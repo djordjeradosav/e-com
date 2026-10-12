@@ -34,8 +34,8 @@ A simple e-commerce shopping cart system built with Laravel, React (Inertia.js),
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shopping-cart.git
-cd shopping-cart
+git clone https://github.com/djordjeradosav/e-com.git
+cd e-com
 ```
 
 ### 2. Install Dependencies
@@ -278,7 +278,7 @@ stdout_logfile=/path-to-your-project/storage/logs/worker.log
 
 ## Contributing
 
-This is a demo project created for a technical assessment. Feel free to fork and modify as needed.
+Built as a take-home technical assessment. Feel free to fork it.
 
 ## License
 
@@ -304,4 +304,4 @@ This project is open-sourced software licensed under the MIT license.
 
 ## Contact
 
-For questions or issues, please contact the repository owner.# e-com
+**Đorđe Radosavljević**: [GitHub](https://github.com/djordjeradosav)
